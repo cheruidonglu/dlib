@@ -6,7 +6,7 @@ Dlib is a modern C++ toolkit containing machine learning algorithms and tools fo
 
 ## Compiling dlib C++ example programs
 
-Go into the examples folder and type:
+Go into the examples folder and typ:
 
 ```bash
 mkdir build; cd build; cmake .. ; cmake --build .
